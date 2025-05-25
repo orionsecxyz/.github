@@ -1,4 +1,23 @@
-## Hi there 👋
+# Orion Security 
+
+## About Orion 
+Orion is a boutique web3 security firm specialized in deep reviews that cut through the noise.
+
+We're a team of expert security researchers with demonstrated experience in public contests and bug bounties. Our team has helped secure more than $3 billion assets.
+
+## Contact
+
+You can contact us via:
+
+- ✉️ email: contact@orionsecurity.xyz
+- 𝕏: [@Orion_Sec](https://x.com/Orion_Sec)
+
+
+## Public audit reports
+
+Coming soon
+
+
 
 <!--
 
